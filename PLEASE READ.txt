@@ -1,0 +1,11 @@
+how to install this properly! 
+
+you first need to put the shader in your shader folder found in your Bin > reshade-shaders > shaders
+
+as for the texture, do the same but in the texture folder, (replace files)
+
+After all that is done and dusted you can finally install the preset in your Bin folder, once you finish all that look at my image attached to this folder to rearange the options so they are in order (just like in image)
+
+
+
+and you are done! enjoy the beta build for my preset.
